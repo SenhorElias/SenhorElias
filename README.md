@@ -1,16 +1,28 @@
-### Hi there 👋
+## 📥 | Sobre-mim:
+```txt
+Sou apenas um péssimo programador que gosta
+de jogar minecraft e quando enjoa de algo
+parte para uma coisa nova, e quando enjoa da
+coisa nova volta para a antiga, esse sou eu'-'
+prazer em te conhecer.
+```
+## 💡 | Redes Sociais
+###### Não uso muito redes sociais, mais utilizo o discord.
+####
+###### Discord:
+- SenhorElias#9644
+###### Ayo:
+- [Clique aqui!](https://ayo.so/senhorelias)
 
-<!--
-**SenhorElias/SenhorElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|**Cores**| **Jogos preferidos** | ***Programação*** |
+| :------ | :------------------- | :---------------- |
+| Azul    | Minecraft            | JavaScript        |
+| Preto   | Roblox               | Html              |
+| Branco  | e só '-'             | +/- Python        |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sir-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sir-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sir-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Sir-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1000170369442918481/1000170533779935352/quadrado.png?width=676&height=676">
+</div>
