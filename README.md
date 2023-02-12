@@ -11,7 +11,7 @@ prazer em te conhecer.
 ####
 ###### Discord:
 - SenhorElias#2662
-###### Ayo:
+###### Site:
 - [Clique aqui!](https://elih.netlify.app)
 
 |**Cores**| **Jogos preferidos** | ***Programação*** |
