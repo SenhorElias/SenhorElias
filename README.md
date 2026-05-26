@@ -1,4 +1,4 @@
-<h1 align="center">Opa, eu sou o Muhdy 👋</h1>
+<h1 align="center">oi eu sou o Muhdy</h1>
 
 <p align="center">
   Desenvolvedor curioso, criador de bots, sistemas web e projetos que começam pequenos...  
