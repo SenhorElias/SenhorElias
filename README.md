@@ -1,30 +1,110 @@
-## 📥 | Sobre-mim:
-```txt
-Sou apenas um péssimo programador que gosta
-de jogar minecraft e quando enjoa de algo
-parte para uma coisa nova, e quando enjoa da
-coisa nova volta para a antiga, esse sou eu'-'
-prazer em te conhecer.
-```
-## 💡 | Redes Sociais
-###### Não uso muito redes sociais, mais utilizo o discord.
-####
-###### Discord:
-- SenhorElias#2662
-###### Site:
-- [Clique aqui!](https://elih.netlify.app)
+<h1 align="center">Opa, eu sou o Muhdy 👋</h1>
 
-|**Cores**| **Jogos preferidos** | ***Programação*** |
-| :------ | :------------------- | :---------------- |
-| Azul    | Minecraft            | JavaScript        |
-| Preto   | Roblox               | Html              |
-| Branco  | e só '-'             | +/- Python        |
+<p align="center">
+  Desenvolvedor curioso, criador de bots, sistemas web e projetos que começam pequenos...  
+  e misteriosamente viram uma arquitetura inteira KKKKK.
+</p>
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorElias&layout=compact&langs_count=7&theme=dark"/>
+<p align="center">
+  <a href="https://elih.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Site-elih.netlify.app-blue?style=for-the-badge" alt="Site" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-SenhorElias%232662-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+Sou um desenvolvedor que gosta de aprender fazendo.
+
+Gosto de criar projetos próprios, testar ideias, quebrar tudo, consertar depois e entender como as coisas funcionam de verdade.  
+Minha área favorita atualmente envolve bots para Discord, dashboards web, sistemas com banco de dados e plugins/mods relacionados a jogos.
+
+Também curto Minecraft, Roblox e qualquer projeto que me dê uma desculpa para aprender uma tecnologia nova.
+
+---
+
+## 🚀 Projeto principal atual
+
+### 🤖 Teto
+
+Atualmente estou desenvolvendo a **Teto**, um bot para Discord inspirado na Kasane Teto, mas que acabou crescendo para algo bem maior.
+
+A Teto hoje envolve:
+
+- Bot em **TypeScript** com **discord.js v14**
+- Dashboard em **React + Vite**
+- Backend em **Express + TypeScript**
+- Banco de dados **MySQL**
+- Sistema de idiomas
+- Sistema de telas/interações dentro do Discord
+- Módulos configuráveis pelo painel
+- Integração real entre dashboard, backend, banco e bot
+
+A ideia é transformar a Teto em um bot completo, personalizável e bem estruturado.
+
+---
+
+## 🛠️ Tecnologias que uso/estudo
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sir-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sir-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+---
+
+## 📌 Áreas que mais me interessam
+
+- Bots para Discord
+- Dashboards e painéis web
+- Sistemas com banco de dados
+- Plugins para Minecraft
+- Automação de tarefas
+- Interfaces interativas
+- Projetos experimentais e ferramentas próprias
+
+---
+
+## 🎮 Jogos que curto
+
+| Jogo | Por que curto |
+| :-- | :-- |
+| Minecraft | Plugins, servidores, criatividade e caos controlado |
+| Roblox | Ideias variadas e sistemas criativos |
+| Outros | Depende do vício temporário da semana KKKKK |
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SenhorElias&show_icons=true&theme=dark&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorElias&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+
 </div>
+
+---
+
+## 🌐 Onde me encontrar
+
+- Discord: `SenhorElias#2662`
+- Site: [elih.netlify.app](https://elih.netlify.app)
+
+---
+
+<p align="center">
+  <i>“Aprendendo, quebrando, refatorando e fingindo que estava tudo planejado desde o começo.”</i>
+</p>
