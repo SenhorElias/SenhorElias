@@ -89,12 +89,7 @@ A ideia é transformar a Teto em um bot completo, personalizável e bem estrutur
 ## 📊 Estatísticas
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SenhorElias&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-
-<br/>
-<br/>
-
+  
 <img src="https://streak-stats.demolab.com?user=SenhorElias&theme=dark&hide_border=true&border_radius=8&locale=pt_BR" alt="GitHub streak stats" />
 
 <br/>
