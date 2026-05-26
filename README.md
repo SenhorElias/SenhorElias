@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="https://elih.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Site-elih.netlify.app-blue?style=for-the-badge" alt="Site" />
+    <img src="https://img.shields.io/badge/Site-pearteto.netlify.app-blue?style=for-the-badge" alt="Site" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-SenhorElias%232662-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-Muhdo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
 ---
@@ -90,9 +90,17 @@ A ideia é transformar a Teto em um bot completo, personalizável e bem estrutur
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SenhorElias&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=SenhorElias&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorElias&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SenhorElias&theme=dark&hide_border=true&border_radius=8&locale=pt_BR" alt="GitHub streak stats" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SenhorElias&theme=github-dark&hide_border=true&radius=8" alt="GitHub activity graph" />
 
 </div>
 
@@ -100,8 +108,8 @@ A ideia é transformar a Teto em um bot completo, personalizável e bem estrutur
 
 ## 🌐 Onde me encontrar
 
-- Discord: `SenhorElias#2662`
-- Site: [elih.netlify.app](https://elih.netlify.app)
+- Discord: `Muhdo`
+- Site: [pearteto](https://pearteto.netlify.app)
 
 ---
 
